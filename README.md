@@ -1,4 +1,4 @@
-# Curso R Estatal 21 febrero de 2022 al 07 de marzo de 2022
+# Curso R DGE 21 febrero de 2022 al 07 de marzo de 2022
 Códigos del Curso: Introducción al lenguaje de programación R para la visualización de datos.
 
 
